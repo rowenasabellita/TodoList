@@ -4,7 +4,6 @@
 
 - Python 3.10 or higher
 - pipenv Python dependency installed
-- `pipenv install`
 - `pipenv shell`
 - Configure your app environment settings by creating a copy of `.env.example` and name it `.env`
 
