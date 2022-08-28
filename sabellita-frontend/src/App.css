@@ -1,0 +1,69 @@
+.todo_title{
+  text-align: left;
+}
+
+.container{
+  align-items: center;
+  justify-content: center;
+  padding: 100px 300px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+}
+
+form{
+  align-items: center;
+  justify-content: center;
+  width: 600px;
+  display: flex;
+}
+
+content, .form, .todolist{
+  width: 600px;
+  justify-content: center;
+  text-align: center;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.title {
+  height: 50px;
+  width: 600px;
+  border-radius: 10px;
+  position: center;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin: 15px 0px;
+}
+
+Button{
+  cursor: pointer;
+  height: 50px;
+  width: 600px;
+  margin: 15px 0px;
+} 
+
+.list{
+  padding: 50px 50px  ;
+  font-size: medium;
+}
+
+td{
+  font-size: 15px;
+}
+
+.todolist{
+  margin: 15px 0px;
+}
+
+Table{
+  text-align:"right";
+}
+
+#radio label, #radio2 label{
+  white-space: nowrap;
+  padding-right:100px;
+}
